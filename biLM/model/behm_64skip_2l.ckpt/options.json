@@ -1,0 +1,1 @@
+{"bidirectional": true, "lstm": {"use_skip_connections": true, "projection_dim": 64, "cell_clip": 2, "proj_clip": 2, "dim": 64, "n_layers": 2}, "n_epochs": 15, "n_train_tokens": 34931607, "batch_size": 256, "n_tokens_vocab": 26, "unroll_steps": 10, "n_negative_samples_batch": 4, "dropout": 0.1, "all_clip_norm_val": 2.0}

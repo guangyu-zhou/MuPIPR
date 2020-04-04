@@ -1,5 +1,5 @@
-# MuPIPR
-This is the repository for "Mutation effect estimation on protein-protein interactions using deep contextualized representation learning" (MuPIPR). This repository contains the source code and links to some datasets used in our paper. (to be updated)
+# MuPIPR - Pre-trained BiLSTM amino acid language models help estimate point mutation effects in PPIs
+This is the repository for the NAR Genom. Bioinform. paper "Mutation effect estimation on protein-protein interactions using deep contextualized representation learning" (MuPIPR). This repository contains the source code and links to some datasets used in our paper. (to be updated)
 
 ## Pre-requisite
 

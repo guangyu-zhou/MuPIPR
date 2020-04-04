@@ -30,3 +30,21 @@ To serve the pre-trained contextualized embedding model to MuPIPR, please downlo
 
 ## Data processing and model running
 Please refer to the readme in the **data** folder and the **model** folder, respectively. 
+
+
+## Reference
+This work has been published in the *NAR Genomics and Bioinformatics* journal.
+
+DOI: https://doi.org/10.1093/nargab/lqaa015  
+Bibtex:
+
+    @article{zhou2020mupipr,
+        title={Mutation Effect Estimation on Protein–protein Interactions Using Deep Contextualized Representation Learning},
+        author={Zhou, Guangyu and Chen, Muhao and Ju, Chelsea and Wang, Zheng and Jiang Jyun-yu and Wang, Wei},
+        journal={NAR Genomics and Bioinformatics},
+        volume = {2},
+        number = {2},
+        year = {2020},
+        month = {03},
+        publisher={Oxford University Press}
+    }

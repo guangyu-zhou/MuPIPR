@@ -48,3 +48,7 @@ Bibtex:
         month = {03},
         publisher={Oxford University Press}
     }
+
+## PIPR (ISMB 2019)  
+Also check out the follow up work in the Bioinformatics (ISMB) paper [Multifaceted Protein-Protein Interaction Prediction Based on Siamese Residual RCNN](http://dx.doi.org/10.1093/bioinformatics/btz328), in which we provide an end-to-end neural learning system to predict multifaceted PPI information.  
+The released software is available at [muhaochen/seq_ppi](https://github.com/muhaochen/seq_ppi).

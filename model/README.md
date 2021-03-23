@@ -14,7 +14,7 @@ To run, simply go to the script folder of the current directory and run the corr
 
 
 ## Parameters
-To run ```MuPIPR.py```, we need to enable CUDA by setting ```CUDA_VISIBLE_DEVICES=0```. In addition, we also need to provide the following parameters in order:
+To run ```MuPIPR.py```, we need to provide the following parameters in order:
 
 	- Protein doublets and score file 
 	- Protein id to sequence file

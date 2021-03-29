@@ -75,7 +75,10 @@ index = 0
 for line in open(id2seq_file):
     line = line.strip().split('\t')
     id2index[line[0]] = index
-    seqs.append(line[1])
+    if len(line)==2:
+        seqs.append(line[1])
+    else:
+        seqs.append("MMMMM") # random sequence: this is a quick fix to a bug....
     index += 1
 seq_array = []
 id2_aid = {}

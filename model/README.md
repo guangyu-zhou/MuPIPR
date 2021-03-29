@@ -6,11 +6,13 @@ This folder contains our main MuPIPR model and its variants: MuPIPR-noAux and Mu
 First make sure you follow the readme file of the package and satisfy all the prerequisites.
 
 We provide 4 example shell scripts to run different model variants on the two tasks. 
+ *this does not work*  
 
 To run, simply go to the script folder of the current directory and run the corresponding script. 
 
-	cd script
-	./run_binding_main.sh
+
+	cd src
+	../scripts/run_bsa_main.sh
 
 
 ## Parameters
